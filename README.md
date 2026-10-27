@@ -1,6 +1,6 @@
 # Robert Nyborg
 
-I build agent tooling in Seattle. I run Claude Code all day at Peek Technologies (multifamily real-estate data) and publish the harness pieces that held up under measurement: hooks, skills, evals, and multi-session tools.
+I build agent tooling in Seattle. I run agentic tooling all day at Peek Technologies (multifamily real-estate data) and publish the harness pieces that held up under measurement: hooks, skills, evals, and multi-session tools.
 
 Each repo started from a failure I counted.
 
@@ -14,4 +14,4 @@ Each repo started from a failure I counted.
 | [agent-overworld](https://github.com/robertmnyborg/agent-overworld) | Live map of every agent session, with status and last-reply recap | |
 | [plan-notes](https://github.com/robertmnyborg/plan-notes) | Inline `@@` review notes on a plan, answered in one pass, with a decision ledger | |
 
-Stack: Claude Code (hooks, skills, subagents, MCP servers), Python, Shell, TypeScript, Postgres.
+Stack: Claude Code + local harnesses (hooks, skills, subagents, MCP servers), Qwen, Python, Shell, TypeScript, Postgres.
